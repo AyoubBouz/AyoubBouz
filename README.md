@@ -39,5 +39,5 @@ https://www.credly.com/users/ayoub-bouz/badges
 
 ### 1/ CATCHIO Police Analysis Platform:
 
-<a href="https://github.com/AyoubBouz/catchioapp"><img src= "https://github.com/AyoubBouz/portfolio/blob/main/la_crime.png" width="256" alt= "catchioapp" /> </a>
+<a href="https://github.com/AyoubBouz/catchioapp"><img src= "https://github.com/AyoubBouz/portfolio/blob/main/la_crime_project.png" width="256" alt= "catchioapp" /> </a>
 
