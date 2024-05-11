@@ -1,2 +1,2 @@
-# portfolio
-portfolio of Ayoub Bouz
+![Data Scientist](https://github.com/AyoubBouz/portfolio/blob/main/ayoubbouz_grad.jpg)
+
