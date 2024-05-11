@@ -37,7 +37,10 @@ https://www.credly.com/users/ayoub-bouz/badges
 ## Some Projects that I worked on :
 
 
-### 1/ CATCHIO Police Analysis Platform:
+### 1/ CATCHIO Police Analysis Platform
 
 <a href="https://github.com/AyoubBouz/catchioapp"><img src= "https://github.com/AyoubBouz/portfolio/blob/main/la_crime_project.png" width="256" alt= "catchioapp" /> </a>
 
+### 2/ Fraud Detection in Bank
+
+<a href="https://github.com/AyoubBouz/2AF_FRAUD_DETECTION"><img src= "https://assets-global.website-files.com/62a9e41d28a7ab25849bce9c/62fd1bc12f28c1a5ebe55b0a_How-Fraud-Detection-Works-in-Banking-p-1080.jpg" width="256" alt= "catchioapp" /> </a>
