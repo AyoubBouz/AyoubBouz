@@ -1,6 +1,6 @@
 ![Data Scientist](https://github.com/AyoubBouz/portfolio/blob/main/banner.png)
 
-#  Data Scientist based in the UK
+#  Data Scientist based in the Morocco
 #  Work with me: 
 ## PROFESSIONAL PROFILE:
 
