@@ -26,6 +26,11 @@ I've earned recognition as a top performance on Competitive Programming. With a 
 Check my other Certifications on Credly:
 https://www.credly.com/users/ayoub-bouz/badges
 
+## Competitive Programming Records:
+
+- 38th Rank - MCPC 2019
+- 8th Rank - ENSAT CPC 2018
+
 ## Skills: Python/ Pandas / Machine learning / GIS / SQL / Advanced mathematics and statistics / HTML / CSS / Flask and Django
 
 - 🔭 I’m currently Data Scientist at Augurisk (New York, Remotely)
