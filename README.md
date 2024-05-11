@@ -1,4 +1,4 @@
-![Data Scientist](https://github.com/AyoubBouz/portfolio/blob/main/banner.png)
+![Data Scientist](https://github.com/AyoubBouz/portfolio/blob/main/banner_ayoubbouz.png)
 
 #  Data Scientist based in the Morocco
 #  Work with me: 
