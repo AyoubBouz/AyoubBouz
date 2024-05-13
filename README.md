@@ -62,7 +62,4 @@ https://www.credly.com/users/ayoub-bouz/badges
 
 <a href="https://github.com/AyoubBouz/ADS-LoR-MiniProject"><img src= "https://dom4j.org/wp-content/uploads/pay-per-click-advertising.png" width="256" alt= "adsPred" /> </a>
 
-### 5/ Ads clicks predicting model
-
-<a href="https://github.com/AyoubBouz/ADS-LoR-MiniProject"><img src= "https://dom4j.org/wp-content/uploads/pay-per-click-advertising.png" width="256" alt= "adsPred" /> </a>
 
