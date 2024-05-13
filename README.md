@@ -31,7 +31,7 @@ https://www.credly.com/users/ayoub-bouz/badges
 - 38th Rank - MCPC 2019
 - 8th Rank - ENSAT CPC 2018
 
-## Skills: Python/ Pandas / Machine learning / GIS / SQL / Advanced mathematics and statistics / HTML / CSS / Flask and Django
+## Skills: Python / SQL / Pandas / Numpy / Machine learning / GIS  / Hadoop / Apache Spark / MongoDB / HTML / CSS / Flask and Django
 
 - 🔭 I’m currently Data Scientist at Augurisk (New York, Remotely)
 - 🌱 I’m currently upskilling Airflow and deploying end-2-end ML
