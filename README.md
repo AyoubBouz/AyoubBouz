@@ -48,8 +48,21 @@ https://www.credly.com/users/ayoub-bouz/badges
 
 ### 2/ Fraud Detection in Bank
 
-<a href="https://github.com/AyoubBouz/2AF_FRAUD_DETECTION"><img src= "https://assets-global.website-files.com/62a9e41d28a7ab25849bce9c/62fd1bc12f28c1a5ebe55b0a_How-Fraud-Detection-Works-in-Banking-p-1080.jpg" width="256" alt= "catchioapp" /> </a>
+<a href="https://github.com/AyoubBouz/2AF_FRAUD_DETECTION"><img src= "https://assets-global.website-files.com/62a9e41d28a7ab25849bce9c/62fd1bc12f28c1a5ebe55b0a_How-Fraud-Detection-Works-in-Banking-p-1080.jpg" width="256" alt= "FDB" /> </a>
 
 ### 3/ Top Places WebApp
 
-<a href="https://TOPLACES.herokuapp.com"><img src= "https://fullsuitcase.com/wp-content/uploads/2020/10/Amazing-destinations-from-all-over-the-world-878x585.jpg" width="256" alt= "catchioapp" /> </a>
+<a href="https://TOPLACES.herokuapp.com"><img src= "https://fullsuitcase.com/wp-content/uploads/2020/10/Amazing-destinations-from-all-over-the-world-878x585.jpg" width="256" alt= "toplaces" /> </a>
+
+### 4/ Loan predicting model
+
+<a href="https://github.com/AyoubBouz/Loan_project"><img src= "https://www.incharge.org/wp-content/uploads/2020/03/paying-off-a-loan-early.jpg" width="256" alt= "LoanPred" /> </a>
+
+### 5/ Ads clicks predicting model
+
+<a href="https://github.com/AyoubBouz/ADS-LoR-MiniProject"><img src= "https://dom4j.org/wp-content/uploads/pay-per-click-advertising.png" width="256" alt= "adsPred" /> </a>
+
+### 5/ Ads clicks predicting model
+
+<a href="https://github.com/AyoubBouz/ADS-LoR-MiniProject"><img src= "https://dom4j.org/wp-content/uploads/pay-per-click-advertising.png" width="256" alt= "adsPred" /> </a>
+
