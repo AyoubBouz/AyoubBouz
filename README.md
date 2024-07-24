@@ -14,8 +14,9 @@ I've earned recognition as a top performance on Competitive Programming. With a 
 
 ## Certifications:
 
-- Coursera Big Data Specialization
-- Coursera Deep Learning Specialization
+- UC San Diego Big Data Specialization
+- Deeplearning.ai Deep Learning Specialization
+- Deeplearning.ai Natural Language Processing Specialization
 - IBM Artificial Intelligence Analyst - Mastery Award 2019
 - IBM Data Science Foundations
 - IBM Applied Data Science with Python
@@ -34,7 +35,7 @@ https://www.credly.com/users/ayoub-bouz/badges
 ## Skills: Python / SQL / Pandas / Numpy / Machine learning / GIS  / Hadoop / Apache Spark / MongoDB / HTML / CSS / Flask and Django
 
 - 🔭 I’m currently Data Scientist at Augurisk (New York, Remotely)
-- 🌱 I’m currently upskilling Airflow and deploying end-2-end ML
+- 🌱 I’m currently upskilling Airflow/Mlflow and deploying end-2-end ML
 - 👯 I’m looking to collaborate on ML/DL projects 
 - ⚡ Fun fact: I wanna be a professional Valorant player.
 - PS: I'm not showcasing client's work since it's strictly private.
