@@ -45,7 +45,7 @@ https://www.credly.com/users/ayoub-bouz/badges
 
 ### Power Consumption System in Tetouan
 
-<a href="https://github.com/AyoubBouz/catchioapp"><img src= "https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12038776%2F8656e914a85ebc06bb6823f743e8e28e%2Fjpg.jpeg?generation=1713847292872398&alt=media" width="256" alt= "catchioapp" /> </a>
+<a href="https://github.com/AyoubBouz/Power_Consumption_In_Tetouan"><img src= "https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12038776%2F8656e914a85ebc06bb6823f743e8e28e%2Fjpg.jpeg?generation=1713847292872398&alt=media" width="256" alt= "catchioapp" /> </a>
 
 
 ### CATCHIO Police Analysis Platform
